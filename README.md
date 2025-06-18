@@ -11,7 +11,7 @@
 - Multer (for file handling)
 - Google Generative AI / OpenAI API
 - dotenv for environment management
-
+- Get api key from google for developer https://ai.google.dev/gemini-api/docs/api-key
 ## 📦 Installation
 ```bash
 git clone https://github.com/abdulrafay17/Chat-Bot.git
