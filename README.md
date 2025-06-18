@@ -1,2 +1,20 @@
-# Chat-Bot
-An intelligent chatbot built using Node.js and Express, designed to understand and respond to user queries in real time. It integrates with AI APIs (like OpenAI or Gemini) to provide human-like responses and supports features like file uploads, context memory, and dynamic conversation flows.
+## 🚀 Features
+- Natural language understanding
+- Real-time AI-powered responses
+- File upload & processing (e.g., with Multer)
+- REST API endpoints for integration
+- Easily deployable to platforms like Render, Vercel, or Heroku
+
+## 🛠️ Tech Stack
+- Node.js
+- Express.js
+- Multer (for file handling)
+- Google Generative AI / OpenAI API
+- dotenv for environment management
+
+## 📦 Installation
+```bash
+git clone https://github.com/abdulrafay17/Chat-Bot.git
+cd ai-chatbot
+npm install
+npm start
